@@ -4,8 +4,10 @@
 
 A seven-device Cisco IOSv/IOSvL2 lab based on supplied `show running-config` outputs. Demonstrates VLAN segmentation, multilayer distribution switching, HSRP first-hop redundancy, MST root placement, LACP EtherChannel, DHCP, static routing, and edge NAT/PAT.
 
-## Logical topology
+## Logical topology 
+### EVE-NG Network Topology
 
+![CCNP Enterprise Campus Network Topology](networktopology.png)
 ```text
                         DHCP/WAN
                            |
